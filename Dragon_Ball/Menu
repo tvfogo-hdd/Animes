@@ -1,1 +1,51 @@
+<layouttype>thumbnail</layouttype>
+ 
+<channels>
 
+<channel>
+<name>[COLOR white][B]Dragon Ball Classico[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/HhupRB2.jpg</thumbnail>
+<externallink>https://gitlab.com/piratao/Animes/-/raw/master/Dragon_Ball/Dragon_Ball</externallink>
+<fanart></fanart>
+<info>Anime</info>
+</channel>
+
+<channel>
+<name>[COLOR white][B]Dragon Ball Z[/COLOR][/B]</name>
+<thumbnail>http://i.imgur.com/pMZwhWb.png</thumbnail>
+<externallink>https://gitlab.com/piratao/Animes/-/raw/master/Dragon_Ball/Dragon_Ball_Z</externallink>
+<fanart></fanart>
+<info>Anime</info>
+</channel>
+
+<channel>
+<name>[COLOR white][B]Dragon Ball GT[/COLOR][/B]</name>
+<thumbnail>http://i.imgur.com/F5XXsVn.jpg</thumbnail>
+<externallink>https://gitlab.com/piratao/Animes/-/raw/master/Dragon_Ball/Dragon_Ball_GT</externallink>
+<fanart></fanart>
+<info>Anime</info>
+</channel>
+
+<channel>
+<name>[COLOR white][B]Dragon Ball Kai[/COLOR][/B]</name>
+<thumbnail>http://i.imgur.com/w8oNHig.png</thumbnail>
+<externallink>https://gitlab.com/piratao/Animes/-/raw/master/Dragon_Ball/Dragon_Ball_Kai</externallink>
+<fanart></fanart>
+<info>Anime</info>
+</channel>
+
+<channel>
+<name>[COLOR white][B]Dragon Ball Super[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/aUrscic.png</thumbnail>
+<externallink>https://gitlab.com/piratao/Animes/-/raw/master/Dragon_Ball/Dragon_Ball_Super</externallink>
+<fanart></fanart>
+<info>Anime</info>
+</channel>
+
+<channel>
+<name>[COLOR white][B]Dragon Ball Heroes[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/pzikjm1.jpg</thumbnail>
+<externallink>https://gitlab.com/piratao/Animes/-/raw/master/Dragon_Ball/Dragon_Ball_Heroes</externallink>
+<fanart></fanart>
+<info>Anime</info>
+</channel>
