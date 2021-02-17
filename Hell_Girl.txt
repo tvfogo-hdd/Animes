@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wZmiQJ4.jpg" group-title="Hell Girl DUB",01-DUB Hell Girl
+http://tudogostoso.blog/make/check/?list=af680c7a8ba5a1ac
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wZmiQJ4.jpg" group-title="Hell Girl DUB",02-DUB Hell Girl
+http://tudogostoso.blog/make/check/?list=800b6cabb576d072
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wZmiQJ4.jpg" group-title="Hell Girl DUB",03-DUB Hell Girl
+http://tudogostoso.blog/make/check/?list=adbc8a6fd7324840
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wZmiQJ4.jpg" group-title="Hell Girl DUB",04-DUB Hell Girl
+http://tudogostoso.blog/make/check/?list=21adde5a334eb9f4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wZmiQJ4.jpg" group-title="Hell Girl DUB",05-DUB Hell Girl
+http://tudogostoso.blog/make/check/?list=2e7a04ded61d9805
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wZmiQJ4.jpg" group-title="Hell Girl DUB",06-DUB Hell Girl
+http://tudogostoso.blog/make/check/?list=2a69dae0553648a9
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wZmiQJ4.jpg" group-title="Hell Girl DUB",07-DUB Hell Girl
+http://tudogostoso.blog/make/check/?list=5c56a3fa21e72476
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wZmiQJ4.jpg" group-title="Hell Girl DUB",08-DUB Hell Girl
+http://tudogostoso.blog/make/check/?list=697a814d24b18c74
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wZmiQJ4.jpg" group-title="Hell Girl DUB",09-DUB Hell Girl
+http://tudogostoso.blog/make/check/?list=bfac897b1bd1f7cb
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wZmiQJ4.jpg" group-title="Hell Girl DUB",10-DUB Hell Girl
+http://tudogostoso.blog/make/check/?list=783a0376410f900a
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wZmiQJ4.jpg" group-title="Hell Girl DUB",11-DUB Hell Girl
+http://tudogostoso.blog/make/check/?list=9310086aebc24434
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wZmiQJ4.jpg" group-title="Hell Girl DUB",12-DUB Hell Girl
+http://tudogostoso.blog/make/check/?list=e3029be70e701e99
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wZmiQJ4.jpg" group-title="Hell Girl DUB",13-DUB Hell Girl
+http://tudogostoso.blog/make/check/?list=3034ffdb31bc3284
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wZmiQJ4.jpg" group-title="Hell Girl DUB",14-DUB Hell Girl
+http://tudogostoso.blog/make/check/?list=3b2064bad33c2cdc
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wZmiQJ4.jpg" group-title="Hell Girl DUB",15-DUB Hell Girl
+http://tudogostoso.blog/make/check/?list=cd55f31d38e4d3d9
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wZmiQJ4.jpg" group-title="Hell Girl DUB",16-DUB Hell Girl
+http://tudogostoso.blog/make/check/?list=39998787a339dff4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wZmiQJ4.jpg" group-title="Hell Girl DUB",17-DUB Hell Girl
+http://tudogostoso.blog/make/check/?list=912b50302d54cdf8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wZmiQJ4.jpg" group-title="Hell Girl DUB",18-DUB Hell Girl
+http://tudogostoso.blog/make/check/?list=9c0ada0fd310ae8b
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wZmiQJ4.jpg" group-title="Hell Girl DUB",19-DUB Hell Girl
+http://tudogostoso.blog/make/check/?list=675d103222c34afa
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wZmiQJ4.jpg" group-title="Hell Girl DUB",20-DUB Hell Girl
+http://tudogostoso.blog/make/check/?list=71297d6af397bd8a
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wZmiQJ4.jpg" group-title="Hell Girl DUB",21-DUB Hell Girl
+http://tudogostoso.blog/make/check/?list=3d3ec3d03d010ec8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wZmiQJ4.jpg" group-title="Hell Girl DUB",22-DUB Hell Girl
+http://tudogostoso.blog/make/check/?list=d7cc675bd2089e4d
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wZmiQJ4.jpg" group-title="Hell Girl DUB",23-DUB Hell Girl
+http://tudogostoso.blog/make/check/?list=9cce5ad735d8efe9
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wZmiQJ4.jpg" group-title="Hell Girl DUB",24-DUB Hell Girl
+http://tudogostoso.blog/make/check/?list=e6349e9fe99b372b
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wZmiQJ4.jpg" group-title="Hell Girl DUB",25-DUB Hell Girl
+http://tudogostoso.blog/make/check/?list=8b5ebcbf3f5bf8fa
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wZmiQJ4.jpg" group-title="Hell Girl DUB",26-DUB Hell Girl
+http://tudogostoso.blog/make/check/?list=bfa756ee929d6d26
