@@ -33,6 +33,22 @@
 </channel>
 
 <channel>
+<name>[COLOR white][B]The King Of Fighters Destiny[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/SYt6GE5.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/tvfogo-hdd/Animes/main/The_King_Of_Fighters_Destiny</externallink>
+<fanart></fanart>
+<info>Anime</info>
+</channel>
+
+<channel>
+<name>[COLOR white][B]King of Fighters: Another Day[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/DdkvNa3.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/tvfogo-hdd/Animes/main/King_of_Fighters_Another_Day</externallink>
+<fanart></fanart>
+<info>Anime</info>
+</channel>
+
+<channel>
 <name>[COLOR white][B]Inuyasha[/COLOR][/B]</name>
 <thumbnail>https://bit.ly/2Uary9k</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo-hdd/Animes/main/Inuyasha</externallink>
