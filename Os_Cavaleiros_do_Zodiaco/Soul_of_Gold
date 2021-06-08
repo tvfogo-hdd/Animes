@@ -1,27 +1,97 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/o6K6ZFW.jpg" group-title="CAVALEIROS DO ZODIACO: Soul of Gold",01
-https://assistonlineapi.online/make/check/?list=be00e5dbaac25bbb
-#EXTINF:-1 tvg-logo="https://i.imgur.com/o6K6ZFW.jpg" group-title="CAVALEIROS DO ZODIACO: Soul of Gold",02
-https://assistonlineapi.online/make/check/?list=d81b069d39245675
-#EXTINF:-1 tvg-logo="https://i.imgur.com/o6K6ZFW.jpg" group-title="CAVALEIROS DO ZODIACO: Soul of Gold",03
-https://assistonlineapi.online/make/check/?list=615f5f57f5467ff2
-#EXTINF:-1 tvg-logo="https://i.imgur.com/o6K6ZFW.jpg" group-title="CAVALEIROS DO ZODIACO: Soul of Gold",04
-https://assistonlineapi.online/make/check/?list=add68a1099c101a4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/o6K6ZFW.jpg" group-title="CAVALEIROS DO ZODIACO: Soul of Gold",05
-https://assistonlineapi.online/make/check/?list=f2460b1795f629c9
-#EXTINF:-1 tvg-logo="https://i.imgur.com/o6K6ZFW.jpg" group-title="CAVALEIROS DO ZODIACO: Soul of Gold",06
-https://assistonlineapi.online/make/check/?list=1d865ac27f31bf6d
-#EXTINF:-1 tvg-logo="https://i.imgur.com/o6K6ZFW.jpg" group-title="CAVALEIROS DO ZODIACO: Soul of Gold",07
-https://assistonlineapi.online/make/check/?list=cf24f5931f16f9ee
-#EXTINF:-1 tvg-logo="https://i.imgur.com/o6K6ZFW.jpg" group-title="CAVALEIROS DO ZODIACO: Soul of Gold",08
-https://assistonlineapi.online/make/check/?list=1c06deac55caa9cb
-#EXTINF:-1 tvg-logo="https://i.imgur.com/o6K6ZFW.jpg" group-title="CAVALEIROS DO ZODIACO: Soul of Gold",09
-https://assistonlineapi.online/make/check/?list=f03dd560bdbb0c61
-#EXTINF:-1 tvg-logo="https://i.imgur.com/o6K6ZFW.jpg" group-title="CAVALEIROS DO ZODIACO: Soul of Gold",10
-https://assistonlineapi.online/make/check/?list=412f20155786843f
-#EXTINF:-1 tvg-logo="https://i.imgur.com/o6K6ZFW.jpg" group-title="CAVALEIROS DO ZODIACO: Soul of Gold",11
-https://assistonlineapi.online/make/check/?list=76252c16c42109ff
-#EXTINF:-1 tvg-logo="https://i.imgur.com/o6K6ZFW.jpg" group-title="CAVALEIROS DO ZODIACO: Soul of Gold",12
-https://assistonlineapi.online/make/check/?list=b6a9418bd476935b
-#EXTINF:-1 tvg-logo="https://i.imgur.com/o6K6ZFW.jpg" group-title="CAVALEIROS DO ZODIACO: Soul of Gold",13
-https://assistonlineapi.online/make/check/?list=7c37b5ba509d046a
+<item>
+<title>[COLOR gold][B]Soul of Gold[/B][/COLOR]</title>
+<link>here</link>
+<thumbnail>https://i.imgur.com/o6K6ZFW.jpg</thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLOR white][B]EPISÓDIO 01[/B][/COLOR]</title>
+<link>https://4567454.animefire.net/s2/mp4/saint-seiya-soul-of-gold-dublado/sd/1.mp4|user-agent=stagefright/1.2+(Linux;Android+5.1.1)</link>
+<thumbnail>https://i.imgur.com/o6K6ZFW.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+<item>
+<title>[COLOR white][B]EPISÓDIO 02[/B][/COLOR]</title>
+<link>https://4567454.animefire.net/s2/mp4/saint-seiya-soul-of-gold-dublado/sd/2.mp4|user-agent=stagefright/1.2+(Linux;Android+5.1.1)</link>
+<thumbnail>https://i.imgur.com/o6K6ZFW.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+<item>
+<title>[COLOR white][B]EPISÓDIO 03[/B][/COLOR]</title>
+<link>https://4567454.animefire.net/s2/mp4/saint-seiya-soul-of-gold-dublado/sd/3.mp4|user-agent=stagefright/1.2+(Linux;Android+5.1.1)</link>
+<thumbnail>https://i.imgur.com/o6K6ZFW.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+<item>
+<title>[COLOR white][B]EPISÓDIO 04[/B][/COLOR]</title>
+<link>https://4567454.animefire.net/s2/mp4/saint-seiya-soul-of-gold-dublado/sd/4.mp4|user-agent=stagefright/1.2+(Linux;Android+5.1.1)</link>
+<thumbnail>https://i.imgur.com/o6K6ZFW.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+<item>
+<title>[COLOR white][B]EPISÓDIO 05[/B][/COLOR]</title>
+<link>https://4567454.animefire.net/s2/mp4/saint-seiya-soul-of-gold-dublado/sd/5.mp4|user-agent=stagefright/1.2+(Linux;Android+5.1.1)</link>
+<thumbnail>https://i.imgur.com/o6K6ZFW.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+<item>
+<title>[COLOR white][B]EPISÓDIO 06[/B][/COLOR]</title>
+<link>https://4567454.animefire.net/s2/mp4/saint-seiya-soul-of-gold-dublado/sd/6.mp4|user-agent=stagefright/1.2+(Linux;Android+5.1.1)</link>
+<thumbnail>https://i.imgur.com/o6K6ZFW.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+<item>
+<title>[COLOR white][B]EPISÓDIO 07[/B][/COLOR]</title>
+<link>https://4567454.animefire.net/s2/mp4/saint-seiya-soul-of-gold-dublado/sd/7.mp4|user-agent=stagefright/1.2+(Linux;Android+5.1.1)</link>
+<thumbnail>https://i.imgur.com/o6K6ZFW.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+<item>
+<title>[COLOR white][B]EPISÓDIO 08[/B][/COLOR]</title>
+<link>https://4567454.animefire.net/s2/mp4/saint-seiya-soul-of-gold-dublado/sd/8.mp4|user-agent=stagefright/1.2+(Linux;Android+5.1.1)</link>
+<thumbnail>https://i.imgur.com/o6K6ZFW.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+<item>
+<title>[COLOR white][B]EPISÓDIO 09[/B][/COLOR]</title>
+<link>https://4567454.animefire.net/s2/mp4/saint-seiya-soul-of-gold-dublado/sd/9.mp4|user-agent=stagefright/1.2+(Linux;Android+5.1.1)</link>
+<thumbnail>https://i.imgur.com/o6K6ZFW.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+<item>
+<title>[COLOR white][B]EPISÓDIO 10[/B][/COLOR]</title>
+<link>https://4567454.animefire.net/s2/mp4/saint-seiya-soul-of-gold-dublado/sd/10.mp4|user-agent=stagefright/1.2+(Linux;Android+5.1.1)</link>
+<thumbnail>https://i.imgur.com/o6K6ZFW.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+<item>
+<title>[COLOR white][B]EPISÓDIO 11[/B][/COLOR]</title>
+<link>https://4567454.animefire.net/s2/mp4/saint-seiya-soul-of-gold-dublado/sd/11.mp4|user-agent=stagefright/1.2+(Linux;Android+5.1.1)</link>
+<thumbnail>https://i.imgur.com/o6K6ZFW.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+<item>
+<title>[COLOR white][B]EPISÓDIO 12[/B][/COLOR]</title>
+<link>https://4567454.animefire.net/s2/mp4/saint-seiya-soul-of-gold-dublado/sd/12.mp4|user-agent=stagefright/1.2+(Linux;Android+5.1.1)</link>
+<thumbnail>https://i.imgur.com/o6K6ZFW.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+<item>
+<title>[COLOR white][B]EPISÓDIO 13[/B][/COLOR]</title>
+<link>https://4567454.animefire.net/s2/mp4/saint-seiya-soul-of-gold-dublado/sd/13.mp4|user-agent=stagefright/1.2+(Linux;Android+5.1.1)</link>
+<thumbnail>https://i.imgur.com/o6K6ZFW.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
