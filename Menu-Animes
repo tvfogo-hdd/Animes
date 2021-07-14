@@ -33,6 +33,14 @@
 </channel>
 
 <channel>
+<name>[COLOR white][B]Ingress The Animation[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/l0YvGRi.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/tvfogo-hdd/Animes/main/Ingress_The_Animation/1</externallink>
+<fanart></fanart>
+<info>Anime</info>
+</channel>
+
+<channel>
 <name>[COLOR white][B]Street Fighter 2: Victory[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/w185/jwhr0Cttec7FgDDZqz19EIqNETK.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo-hdd/Animes/main/Street_Fighter_II_Victory</externallink>
